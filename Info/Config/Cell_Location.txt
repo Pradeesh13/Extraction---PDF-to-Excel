@@ -1,0 +1,13 @@
+be no = (4,6)
+be date = (4,12)
+invoice no = (6,6)
+invoice date = (6,12)
+Total Duty = (10,14)
+BCD = (10,11)
+SWS = (10,12)
+IGST = (10,13)
+Assess value = (10,10)
+description = (10,2)
+quantity = (10,9)
+unit price = (10,3)
+
